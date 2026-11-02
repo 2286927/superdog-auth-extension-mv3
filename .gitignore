@@ -1,0 +1,18 @@
+# 生成的图标（如需图标，运行 python make-icon.py）
+icon-128.png
+
+# 解包产物
+*.crx
+dist/
+out/
+extracted/
+
+# Python
+__pycache__/
+*.pyc
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
